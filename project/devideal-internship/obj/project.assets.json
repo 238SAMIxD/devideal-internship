@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\devideal-internship\\devideal-internship\\devideal-internship\\devideal-internship.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\devideal-internship\\project\\devideal-internship\\devideal-internship.csproj",
       "projectName": "devideal-internship",
-      "projectPath": "D:\\Documents\\GitHub\\devideal-internship\\devideal-internship\\devideal-internship\\devideal-internship.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\devideal-internship\\project\\devideal-internship\\devideal-internship.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\devideal-internship\\devideal-internship\\devideal-internship\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\devideal-internship\\project\\devideal-internship\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

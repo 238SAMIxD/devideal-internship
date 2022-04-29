@@ -12,3 +12,17 @@ D:\Documents\GitHub\devideal-internship\devideal-internship\devideal-internship\
 D:\Documents\GitHub\devideal-internship\devideal-internship\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.dll
 D:\Documents\GitHub\devideal-internship\devideal-internship\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.pdb
 D:\Documents\GitHub\devideal-internship\devideal-internship\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.genruntimeconfig.cache
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\bin\Debug\netcoreapp3.1\devideal-internship.exe
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\bin\Debug\netcoreapp3.1\devideal-internship.deps.json
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\bin\Debug\netcoreapp3.1\devideal-internship.runtimeconfig.json
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\bin\Debug\netcoreapp3.1\devideal-internship.runtimeconfig.dev.json
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\bin\Debug\netcoreapp3.1\devideal-internship.dll
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\bin\Debug\netcoreapp3.1\devideal-internship.pdb
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.csproj.AssemblyReference.cache
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.AssemblyInfoInputs.cache
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.AssemblyInfo.cs
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.dll
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.pdb
+D:\Documents\GitHub\devideal-internship\project\devideal-internship\obj\Debug\netcoreapp3.1\devideal-internship.genruntimeconfig.cache
