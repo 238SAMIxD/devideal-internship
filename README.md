@@ -268,3 +268,7 @@ input:
 output:
 Thank you for your visit! See you again.
 ```
+
+# 🐘
+
+![Coding Elephant](./img/elephant.jpg)
