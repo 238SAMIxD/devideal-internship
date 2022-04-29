@@ -52,6 +52,7 @@ namespace devideal_internship {
             while (working) {
                 category = -1;
 
+                Console.WriteLine("Welcome to our library!");
                 Console.WriteLine("Please, pick a book category:");
                 Console.WriteLine("[1] IT");
                 Console.WriteLine("[2] History");
