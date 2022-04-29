@@ -10,7 +10,7 @@ namespace devideal_internship {
 
             if (DateTime.TryParse(Console.ReadLine(), out date)) return date;
             
-            Console.WriteLine("You have entered an incorrect value.");
+            Console.WriteLine("You have entered an incorrect date.");
 
             return DateInput(type);
         }
