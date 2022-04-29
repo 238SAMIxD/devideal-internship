@@ -26,6 +26,9 @@ namespace devideal_internship {
                     fine = 3;
                     break;
                 case 3:
+                case 4:
+                case 5:
+                case 6:
                     fine = 2;
                     break;
             }
@@ -56,7 +59,10 @@ namespace devideal_internship {
                 Console.WriteLine("Please, pick a book category:");
                 Console.WriteLine("[1] IT");
                 Console.WriteLine("[2] History");
-                Console.WriteLine("[3] Classics, Law, Medical, Philosophy");
+                Console.WriteLine("[3] Classics");
+                Console.WriteLine("[4] Law");
+                Console.WriteLine("[5] Medical");
+                Console.WriteLine("[6] Philosophy");
                 Console.WriteLine("[0] Quit the app");
 
                 try {
@@ -68,6 +74,9 @@ namespace devideal_internship {
                         case 1:
                         case 2:
                         case 3:
+                        case 4:
+                        case 5:
+                        case 6:
                             DateTime borrowDate = DateInput("borrow");
                             DateTime returnDate = DateInput("return");
                             int price = CalculatePrice(category, borrowDate, returnDate);
