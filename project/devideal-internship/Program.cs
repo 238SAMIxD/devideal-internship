@@ -90,7 +90,7 @@ namespace devideal_internship {
                             working = false;
                             break;
                         default:
-                            Console.WriteLine("Pick a category within 1-3 range or 0 to quit");
+                            Console.WriteLine("Pick a category within 1-6 range or 0 to quit");
                             break;
                     }
                 }
